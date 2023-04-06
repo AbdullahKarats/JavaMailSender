@@ -18,7 +18,11 @@ Uyeler.txt dosyası içerisinde kategorilendirme yapılmamıştır. Program içi
 **30 Mayıs güncellemesiyle Gmail Less Secure App özelliğini kapatmıştır. Program içerisinde sadece bu program için kullanıma açık şifrem kayıtlı olduğu için benim mailimle sorunsuz test yapabilirsiniz. Ancak kendi hesabınızdan mail göndermek isterseniz aşağıdaki adımları takip edebilirsiniz.
 
 1-Gmail hesabınızda iki adımlı doğrulamanın açık olduğundan emin olun.
+
 2-Gmail Hesabınızın ayarlarından 'Uygulama Şifreleri' bölümüne giriş yapın.
+
 3-Diğer seçeneğiyle Uygulama şifresi oluşturun. //https://prnt.sc/wbYiL5ooTuYl
+
 4-16 rakamlı uygulama şifrenizi kopyalayın.//https://prnt.sc/ZRKtdBpv49eS
+
 5-Java Mail API kod bloğunda bulunan 'password' Stringine tek kullanımlık şifreyi yapıştırın.//https://prnt.sc/Y4hmR2wuP0a8
