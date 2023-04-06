@@ -16,7 +16,7 @@ Email uzantısı gmail olmak zorundadır.
 Kazara yanlış input verilmesi durumunda Uyeler.txt dosyasının içi 'tamamen' silinmelidir.
 Uyeler.txt dosyası içerisinde kategorilendirme yapılmamıştır. Program içinde elitUye ve genelUye olarak farklı ArrayListler oluşturulmuştur.
 
-**30 Mayıs güncellemesiyle Gmail Less Secure App özelliğini kapatmıştır. Program içerisinde sadece bu program için kullanıma açık şifrem kayıtlı olduğu için benim mailimle sorunsuz test yapabilirsiniz. Ancak kendi hesabınızdan mail göndermek isterseniz aşağıdaki adımları takip edebilirsiniz.
+**30 Mayıs güncellemesiyle Gmail Less Secure App özelliğini kapatmıştır. Program içerisinde sadece bu program için kullanıma açık şifrem kayıtlı olduğu için benim mailimle test yapabilirsiniz. Ancak google'ın güvenlik prosedürleri gereği oturumunuzu bilgisayarımdan onaylamam gerekiyor.Kendi hesabınızdan mail göndermek isterseniz aşağıdaki adımları takip edebilirsiniz.
 
 1-Gmail hesabınızda iki adımlı doğrulamanın açık olduğundan emin olun.
 
