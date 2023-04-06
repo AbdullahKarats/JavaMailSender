@@ -2,7 +2,8 @@
 
 ######################################################################KURULUM#################################################################################
 #                                                                                                                                                            #
-# GitHubda bulunan activation.jar ve JavaMail.jar'ı indirdikten sonra görseldeki gibi projeye kurulumunu gerçekleştirin.//https://www.hizliresim.com/k9hsf5v # 
+# GitHubda bulunan activation.jar ve JavaMail.jar'ı indirdikten sonra görseldeki gibi projeye kurulumunu gerçekleştirin.//https://www.hizliresim.com/k9hsf5v #
+# Program çalıştırılırken hata alınması ve ya hata alınmasa da mail göndermemesi durumunda Uyeler.txt dosyasını temizleyin.                                   #
 #                                                                                                                                                            #
 ##############################################################################################################################################################
 
